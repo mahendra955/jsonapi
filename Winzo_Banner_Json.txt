@@ -1,0 +1,76 @@
+{
+  "status_code": "200",
+  "status_message": "success",
+  "data": [
+    {
+        "qureka": "0",
+        "id": "0",
+        "game_name": "Billiards",
+        "game_image": "https://games.atmegame.com/mkh/images/billiards/wall.png",
+        "game_link": "https://games.atmegame.com/mkh/games/billiards/?utm_source=CuelixP15I&utm_medium=CuelixP15I"
+      },
+    {
+        "qureka": "0",
+        "id": "0",
+        "game_name": "Tank Defender",
+        "game_image": "https://games.atmegame.com/mkh/images/tank-defender/wall.png",
+        "game_link": "https://games.atmegame.com/mkh/games/tank-defender/?utm_source=CuelixP15I&utm_medium=CuelixP15I"
+      },
+    {
+      "qureka": "0",
+      "id": "0",
+      "game_name": "Viking Attack",
+      "game_image": "https://games.atmegame.com/mkh/images/viking-attack/wall.png",
+      "game_link": "https://games.atmegame.com/mkh/games/viking-attack/?utm_source=CuelixP15I&utm_medium=CuelixP15I"
+    },
+ {
+      "qureka": "0",
+      "id": "0",
+      "game_name": "Zoo Run",
+      "game_image": "https://games.atmegame.com/mkh/images/zoo-run/wall.png",
+      "game_link": "https://games.atmegame.com/mkh/games/zoo-run/?utm_source=CuelixP15I&utm_medium=CuelixP15I"
+    },
+    {
+      "qureka": "0",
+      "id": "1",
+      "game_name": "Traffic Command",
+      "game_image": "https://games.atmegame.com/mkh/images/traffic-command/wall.png",
+      "game_link": "https://games.atmegame.com/mkh/games/traffic-command/?utm_source=CuelixP15I&utm_medium=CuelixP15I"
+    },
+    {
+      "qureka": "0",
+      "id": "2",
+      "game_name": "Stickman-Table Tennis",
+      "game_image": "https://games.atmegame.com/mkh/images/stickman-table-tennis/wall.png",
+      "game_link": "https://games.atmegame.com/mkh/games/stickman-table-tennis/?utm_source=CuelixP15I&utm_medium=CuelixP15I"
+    },
+     {
+      "qureka": "1",
+      "id": "2",
+      "game_name": "Play and Win",
+      "game_image": "https://customdatastorage.github.io/Happiness/900x506.jpg",
+      "game_link": "https://1103.win.qureka.com"
+    },
+    {
+      "qureka": "0",
+      "id": "1",
+      "game_name": "Cube Dash",
+      "game_image": "https://games.atmegame.com/mkh/images/cube-dash/wall.png",
+      "game_link": "https://games.atmegame.com/mkh/games/cube-dash/?utm_source=CuelixP15I&utm_medium=CuelixP15I"
+    },
+    {
+      "qureka": "0",
+      "id": "4",
+      "game_name": "Air Hockey",
+      "game_image": "https://games.atmegame.com/mkh/images/air-hockey/wall.png",
+      "game_link": "https://games.atmegame.com/mkh/games/air-hockey/?utm_source=CuelixP15I&utm_medium=CuelixP15I"
+    },
+    {
+      "qureka": "0",
+      "id": "5",
+      "game_name": "Block Snake",
+      "game_image": "https://games.atmegame.com/mkh/images/block-snake/wall.png",
+      "game_link": "https://games.atmegame.com/mkh/games/block-snake/?utm_source=CuelixP15I&utm_medium=CuelixP15I"
+    }
+  ]
+}
