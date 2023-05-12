@@ -9,7 +9,7 @@
         "game_name": "Racing",
         "game_image": "https://mahendra955.github.io/category/category 1.png",
         "Category_link": "https://mahendra955.github.io/jsonlist/RacingCategoryWinzo.json",
-        "btn_image" : "https://customdatastorage.github.io/Winzo_category_Image/btn_14.png"
+        "btn_image" : "https://mahendra955.github.io/category/btn_14.png"
         },
         {
         "qureka" : "0",
@@ -17,7 +17,7 @@
         "game_name": "Girls",
         "game_image": "https://mahendra955.github.io/category/category 2.png",
         "Category_link": "https://mahendra955.github.io/jsonlist/GirlsCategoryWinzo.json",
-        "btn_image" : "https://customdatastorage.github.io/Winzo_category_Image/btn_15.png"
+        "btn_image" : "https://mahendra955.github.io/category/btn_15.png"
         },
         {
         "qureka" : "0",
@@ -25,7 +25,7 @@
         "game_name": "New",
         "game_image": "https://mahendra955.github.io/category/category 11.png",
         "Category_link": "https://mahendra955.github.io/jsonlist/RacingCategoryWinzo.json",
-        "btn_image" : "https://customdatastorage.github.io/Winzo_category_Image/btn_13.png"
+        "btn_image" : "mahendra955.github.io/category/btn_13.png"
         },
         {
         "qureka" : "0",
@@ -33,7 +33,7 @@
         "game_name": "Sports",
         "game_image": "https://mahendra955.github.io/category/category 4.png",
         "Category_link": "https://mahendra955.github.io/jsonlist/SportsCategoryWinzo.json",
-        "btn_image" : "https://customdatastorage.github.io/Winzo_category_Image/btn_6.png"
+        "btn_image" : "mahendra955.github.io/category/btn_6.png"
         },
         {
         "qureka" : "0",
@@ -41,7 +41,7 @@
         "game_name": "Arcade",
         "game_image": "https://mahendra955.github.io/category/category 5.png",
         "Category_link": "https://mahendra955.github.io/jsonlist/ArcadeCategoryWinzo.json",
-        "btn_image" : "https://customdatastorage.github.io/Winzo_category_Image/btn_7.png"
+        "btn_image" : "mahendra955.github.io/category/btn_7.png"
         },
         {
         "qureka" : "0",
@@ -49,7 +49,7 @@
         "game_name": "Quiz",
         "game_image": "https://mahendra955.github.io/category/category 6.png",
         "Category_link": "https://mahendra955.github.io/jsonlist/QuizCategoryWinzo.json",
-        "btn_image" : "https://customdatastorage.github.io/Winzo_category_Image/btn_8.png"
+        "btn_image" : "https://mahendra955.github.io/category/btn_8.png"
         },
         {
         "qureka" : "0",
@@ -57,7 +57,7 @@
         "game_name": "Puzzle",
         "game_image": "https://mahendra955.github.io/category/category 7.png",
         "Category_link": "https://mahendra955.github.io/jsonlist/PuzzleCategoryWinzo.json",
-        "btn_image" : "https://customdatastorage.github.io/Winzo_category_Image/btn_9.png"
+        "btn_image" : "https://mahendra955.github.io/category/btn_9.png"
         },
         {
         "qureka" : "0",
@@ -65,7 +65,7 @@
         "game_name": "Bubble Shooter",
         "game_image": "https://mahendra955.github.io/category/category 8.png",
         "Category_link": "https://mahendra955.github.io/jsonlist/BubbleShooterCategoryWinzo.json",
-        "btn_image" : "https://customdatastorage.github.io/Winzo_category_Image/btn_10.png"
+        "btn_image" : "https://mahendra955.github.io/category/btn_10.png"
         },
         {
         "qureka" : "0",
@@ -73,7 +73,7 @@
         "game_name": "Jump & Run",
         "game_image": "https://mahendra955.github.io/category/category 9.png",
         "Category_link": "https://mahendra955.github.io/jsonlist/RacingCategoryWinzo.json",
-        "btn_image" : "https://customdatastorage.github.io/Winzo_category_Image/btn_11.png"
+        "btn_image" : "https://mahendra955.github.io/category/btn_11.png"
         },
         {
         "qureka" : "0",
@@ -81,7 +81,7 @@
         "game_name": "Best",
         "game_image": "https://mahendra955.github.io/category/category 10.png",
         "Category_link": "https://mahendra955.github.io/jsonlist/BestCategoryWinzo.json",
-        "btn_image" : "https://customdatastorage.github.io/Winzo_category_Image/btn_12.png"
+        "btn_image" : "https://mahendra955.github.io/category/btn_12.png"
         },
         {
         "qureka" : "0",
@@ -89,7 +89,7 @@
         "game_name": "New",
         "game_image": "https://mahendra955.github.io/category/category 11.png",
         "Category_link": "https://mahendra955.github.io/jsonlist/RacingCategoryWinzo.json",
-        "btn_image" : "https://customdatastorage.github.io/Winzo_category_Image/btn_13.png"
+        "btn_image" : "https://mahendra955.github.io/category/btn_13.png"
         }
         ]
         }
